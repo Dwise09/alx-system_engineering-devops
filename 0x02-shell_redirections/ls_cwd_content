@@ -1,0 +1,28 @@
+total 204
+drwxr-xr-x 2 root root  4096 Apr  4 14:21 .
+drwxr-xr-x 6 root root   121 Apr  4 02:14 ..
+-rwxr--r-- 1 root root    32 Apr  4 05:44 0-hello_world
+-rw-r--r-- 1 root root 12288 Apr  4 04:22 .0-hello_world.swp
+-rw------- 1 root root 12288 Apr  4 06:27 .1-confised_smiley.swp
+-rwxr--r-- 1 root root    28 Apr  4 09:28 1-confused_smiley
+-rw-r--r-- 1 root root 12288 Apr  4 07:14 .1-confused_smiley.swo
+-rw-r--r-- 1 root root 12288 Apr  4 06:16 .1-confused_smiley.swp
+-rwxr--r-- 1 root root    28 Apr  4 09:11 2-hellofile
+-rw-r--r-- 1 root root 12288 Apr  4 09:09 .2-hellofile.swl
+-rw-r--r-- 1 root root 20480 Apr  4 09:08 .2-hellofile.swm
+-rw-r--r-- 1 root root  4096 Apr  4 09:06 .2-hellofile.swn
+-rw-r--r-- 1 root root 20480 Apr  4 09:05 .2-hellofile.swo
+-rw------- 1 root root 12288 Apr  4 09:01 .2-hellofile.swp
+-rwxr--r-- 1 root root    39 Apr  4 09:34 3-twofiles
+-rwxr--r-- 1 root root    29 Apr  4 09:40 4-lastlines
+-rwxr--r-- 1 root root    29 Apr  4 09:44 5-firstlines
+-rwxr--r-- 1 root root    36 Apr  4 09:57 6-third_line
+-rwxr--r-- 1 root root    74 Apr  4 14:14 7-file
+-rw-r--r-- 1 root root 12288 Apr  4 13:23 .7-file.swp
+-rwxr--r-- 1 root root    36 Apr  4 14:20 8-cwd_state
+-rw-r--r-- 1 root root    12 Apr  4 13:33 \\'"Best School"'\$\?\\\*:)
+-rw-r--r-- 1 root root     0 Apr  4 14:21 ls_cwd_content
+-rw-r--r-- 1 root root    19 Apr  4 02:22 README.md
+-rw-r--r-- 1 root root 12288 Apr  4 04:37 .README.md.swp
+-rw------- 1 root root  4096 Apr  4 09:04 .swo
+-rw------- 1 root root 12288 Apr  4 09:02 .swp
